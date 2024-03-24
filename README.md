@@ -156,19 +156,27 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/niraunjana/mnist-classification/assets/119395610/2ddbfeae-0955-4934-baa7-9fe735a8bd6d)
+
+![image](https://github.com/niraunjana/mnist-classification/assets/119395610/f09c5736-0ced-45c1-b222-a21aaafe5e35)
+
+
+
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/niraunjana/mnist-classification/assets/119395610/3f430703-889d-409e-b521-d6061200fb47)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/niraunjana/mnist-classification/assets/119395610/a7ea5061-f853-4a57-841c-0ae1e6de0b6e)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![image](https://github.com/niraunjana/mnist-classification/assets/119395610/65ec4417-001f-4001-8bd5-6c3b41624075)
+
 
 ## RESULT
-Include your result here.
+Thus a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
